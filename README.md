@@ -1,1 +1,1 @@
-Mini auto grad system
+Mini auto grad system inspired from [micrograd](https://github.com/karpathy/micrograd)
